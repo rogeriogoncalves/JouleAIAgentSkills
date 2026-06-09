@@ -16,4 +16,4 @@ Dica: Sempre que fizer novas alterações, salve o trabalho para evitar perder i
 ## Criação Agente
 [Criando o Agente](Agents/dummy.md)
 
-[Validando o Agente](Agents/dummy.md)
+[Validando o Agente](Agents/usage.md)
