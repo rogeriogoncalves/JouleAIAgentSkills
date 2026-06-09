@@ -25,7 +25,7 @@ Link SAP Build: <https://sap-build-us10-trial-3-t67lhj9w.us10.build.cloud.sap/lo
 
 <B>Descrição:</B> Este projeto contém um agente Joule e habilidades usadas para validar ordens de manutenção com base na disponibilidade de materiais.
 
-## 4 - Acessar o agente criado, após ir no botão ‘Criar’ e ‘Habilidade do Joule’
+## 4 - Acessar o projeto criado, após ir no botão ‘Criar’ e ‘Habilidade do Joule’
 
  
 ![Alt Text](../Images/Imagem4.png)
