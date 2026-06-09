@@ -3,51 +3,75 @@
 ## 1 - Na tela inicial do Joule Studio
 Acessar o agente criado, após ir no botão ‘Criar’ e ‘Habilidade do Joule’
 
- ![Alt Text](../Images/exe2-1.png)
+![Alt Text](../Images/ex2-1.png)
 
-Preencher os campos conforme abaixo e pressionar em ‘Criar’
-Nome: ObterOperaçõesDaOrdem
-Descrição: Listar operações sob uma ordem específica.
+## Preencher os campos conforme abaixo e pressionar em ‘Criar’
+<B>Nome</B>: ObterOperaçõesDaOrdem
+
+<B>Descrição:</B> Listar operações sob uma ordem específica.
+
 Criar habilidade.
 Ao ser criada, acessar a opção ‘Painel de habilidades’
- 2
+
+![Alt Text](../Images/ex2-2.png)
+
 Acessar a aba parâmetros e clicar no símbolo + na sessão ‘Entrada da habilidade’
 
- 3
- 4
-Preencher os campos com os seguintes conteúdos e pressionar ‘Aplicar’.
-Nome: ID Ordem manutencao
-Descrição: ID da ordem de manutenção para obter informações sobre a manutenção
-Obrigatório: Sim
+![Alt Text](../Images/ex2-3.png)
+
+## Preencher os campos com os seguintes conteúdos e pressionar ‘Aplicar’.
+<B>Nome:</B> ID Ordem manutencao
+
+<B>Descrição:</B> ID da ordem de manutenção para obter informações sobre a manutenção
+
+<B>Obrigatório:</B> Sim
+
+![Alt Text](../Images/ex2-4.png)
 
 Clicar em ‘Aplicar’
-Na aba parâmetros, clicar no símbolo + na sessão ‘Saídas da habilidade’
- 5
 
-Saida 1
-Nome: Value
-Descrição: Value
-Tipo: Any 
-Obrigatório: Sim
-Lista: Sim 
+## Na aba parâmetros, clicar no símbolo + na sessão ‘Saídas da habilidade’
+![Alt Text](../Images/ex2-5.png)
 
-Saida 2
-Nome: Count
-Descrição: Count
-Tipo: Number 
-Obrigatório: Sim
-Lista: Não
- 6
+<B>Saida 1</B>
 
-Clicar no botão ‘Adicionar etapa’ e escolher a opção ‘Call Action’ e ‘Browse All Actions’
+<B>Nome:</B> Value
+
+<B>Descrição</B>: Value
+
+<B>Tipo:</B> Any 
+
+<B>Obrigatório:</B> Sim
+
+<B>Lista:</B> Sim 
+
+<B>Saida 2</B>
+
+<B>Nome:</B> Count
+
+<B>Descrição:</B> Count
+
+<B>Tipo:</B> Number 
+
+<B>Obrigatório:</B> Sim
+
+<B>Lista:</B> Não
+
+![Alt Text](../Images/ex2-6.png)
+
+## Clicar no botão ‘Adicionar etapa’ e escolher a opção ‘Call Action’ e ‘Browse All Actions’
  
 Na biblioteca ‘Mostrar filtros’ e selecionar ‘Get operations for maintenance order’
 Variável de destino: AgenteDeAtendimento
- 7
 
-Navegar até a aba de ‘Entradas’ e selecionar o ID.
-  8
-Selecionar o passo ‘Fim’ e definir os parâmetros de saída
- 9
+![Alt Text](../Images/ex2-7.png)
+
+## Navegar até a aba de ‘Entradas’ e selecionar o ID.
+
+![Alt Text](../Images/ex2-8.png)
+
+## Selecionar o passo ‘Fim’ e definir os parâmetros de saída
+
+![Alt Text](../Images/ex2-9.png)
 
  # [Voltar](../README.md)
