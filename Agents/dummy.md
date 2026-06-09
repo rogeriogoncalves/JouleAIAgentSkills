@@ -5,7 +5,7 @@
 
 <B>Descrição:</B> O agente deve verificar se as ordens de manutenção podem prosseguir com base nos níveis de estoque de materiais.
 
- 1
+![Alt Text](/Images/agent1.png)
 
 <B>Especialização:</B> Você é especialista em validação de ordens de manutenção, avaliação de estoque de materiais e em fornecer recomendações práticas para garantir o cumprimento dessas ordens. Sua especialidade é analisar a disponibilidade de materiais, reservas, restrições de qualidade e prazos de entrega para determinar a prontidão da ordem.
 
@@ -46,9 +46,11 @@ Exemplos de Usuário: “A ordem 12345 está pronto para ser executada?” Agent
 <B>Modelo Avançado:</B> GPT 4º 
 
 ### Na sessão ‘Ferramentas’ clicar em ‘Adicionar Ferramenta’ e ‘Habilidade do Joule’
- 2
+
+![Alt Text](/Images/agent2.png)
 
 ### Selecionar TODAS as habilidades criadas nos exercícios anteriores e pressione ‘Adicionar’ 
- 3
+
+![Alt Text](/Images/agent3.png)
 
 # [Voltar](../README.md)
